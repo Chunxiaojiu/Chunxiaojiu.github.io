@@ -5,7 +5,7 @@ permalink:        pretty
 url:              http://qwtel.com
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
-baseurl:          /TheSeed
+baseurl:          ''
 
 title:            TheSeed
 
@@ -17,7 +17,7 @@ description:      >
 sidebar_tags:     [Android, Unity 3D, Java]
 
 # Fallback image and color if not overwritten for tag or post
-image:            /public/img/TheSeed.jpg
+image:            /TheSeed/public/img/TheSeed.jpg
 color:            '#A85641'
 
 author:

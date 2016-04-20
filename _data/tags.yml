@@ -13,7 +13,7 @@
 
 Unity 3D:
   name: Unity 3D
-  image: /TheSeed/public/img/unity.png
+  image: /chunxiaojiu.github.io/public/img/unity.png
   color: '#949667'
   description: >
     - **birdfly文件夹介绍：**
@@ -28,14 +28,14 @@ Unity 3D:
 
 Android:
   name: Android
-  image: /TheSeed/public/img/Android.jpg
+  image: /chunxiaojiu.github.io/public/img/Android.jpg
   color: '#949667'
   description: >
     Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
 
 Java:
   name: Java算法
-  image: /TheSeed/public/img/java.jpg
+  image: /chunxiaojiu.github.io/public/img/java.jpg
   color: '#949667'
   description: >
     Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.

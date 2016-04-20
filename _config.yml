@@ -17,7 +17,7 @@ description:      >
 sidebar_tags:     [Android, Unity 3D, Java]
 
 # Fallback image and color if not overwritten for tag or post
-image:            /TheSeed/public/img/TheSeed.jpg
+image:           /public/img/TheSeed.jpg
 color:            '#A85641'
 
 author:

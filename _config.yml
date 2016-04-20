@@ -1,0 +1,34 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+url:              http://qwtel.com
+
+# Set to '' in case of hosting on `http://<your-github-name>.github.io`
+baseurl:          /TheSeed
+
+title:            TheSeed
+
+# Markdown enabled, however don't use more than one paragraph (enforced by `>`)
+description:      >
+  一个对生活和学习充满激情程序员 [TheSeed](https://github.com/Chunxiaojiu) 的主页, 让我们一起在代码里寻找快乐吧！
+
+# The tags listed as entries in the sidebar
+sidebar_tags:     [Android, Unity 3D, Java]
+
+# Fallback image and color if not overwritten for tag or post
+image:            /TheSeed/public/img/TheSeed.jpg
+color:            '#A85641'
+
+author:
+  name:           'TheSeed'
+  twitter:        Chunxiaojiu
+  github:         Chunxiaojiu
+  photo:          https://raw.githubusercontent.com/Chunxiaojiu/-unity-/master/pic/MyPhoto.jpg
+
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:          |
+    大家好，我就是TheSeed，当然也可以叫我小九，我是一个热爱Android开发和Unity开发的程序员，那希望大家关注我的[github](https://github.com/Chunxiaojiu),当然我也附上我的邮箱
+    我们一起交流学习啦！
+
+    爱生活、爱编程、爱游戏

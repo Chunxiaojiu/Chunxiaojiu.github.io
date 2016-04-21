@@ -13,7 +13,7 @@
 
 Unity 3D:
   name: Unity 3D
-  image: /TheSeed/public/img/unity.png
+  image: /public/img/unity.png
   color: '#949667'
   description: >
     - **birdfly文件夹介绍：**
@@ -28,15 +28,14 @@ Unity 3D:
 
 Android:
   name: Android
-  image: /TheSeed/public/img/Android.jpg
+  image: /public/img/Android.jpg
   color: '#949667'
   description: >
-    Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+    Android是一种基于Linux的自由及开放源代码的操作系统，主要使用于移动设备。UP主将不定时的更新一些好玩的Android项目上来。
 
 Java:
   name: Java算法
-  image: /TheSeed/public/img/java.jpg
+  image: /public/img/java.jpg
   color: '#949667'
   description: >
-    Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
-    It’s based on Poole, the Jekyll butler.
+    学习高效的程序构成，发散自己的编程思维。

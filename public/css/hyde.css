@@ -82,14 +82,14 @@ a:focus::before {
 }
 
  a::before {
-  content: "(";
-  -webkit-transform: translateX(-0.5em) translateY(0.075em);
-  -ms-transform: translateX(-0.5em) translateY(0.075em);
-  transform: translateX(-0.5em) translateY(0.075em);
+  content: "\e902";
+  -webkit-transform: translateX(-1em) translateY(0.075em);
+  -ms-transform: translateX(-1em) translateY(0.075em);
+  transform: translateX(-1em) translateY(0.075em);
 }
 
  a::after {
-  content: ")";
+  content: "\e903";
   -webkit-transform: translateX(0.05em) translateY(0.075em);
   -ms-transform: translateX(0.05em) translateY(0.075em);
   transform: translateX(0.05em) translateY(0.075em);
@@ -347,10 +347,10 @@ a:focus::before {
 }
 
 .icon-icon-github:before {
-  content: "\e900";
+  content: "\e901";
 }
 .icon-icon-twitter:before {
-  content: "\e901";
+  content: "\e900";
 }
 
 .me {
